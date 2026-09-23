@@ -17,6 +17,8 @@
       "type": "虫蛀孔",
       "beforePhotoUrl": "https://example.local/before-014-1.jpg",
       "afterPhotoUrl": "",
+      "beforeFingerprint": "sha256:demo-before-014-1",
+      "afterFingerprint": "",
       "status": "pending",
       "repairNote": "",
       "batchId": null,
@@ -30,6 +32,8 @@
       "type": "撕裂",
       "beforePhotoUrl": "https://example.local/before-014-2.jpg",
       "afterPhotoUrl": "",
+      "beforeFingerprint": "sha256:demo-before-014-2",
+      "afterFingerprint": "",
       "status": "pending",
       "repairNote": "",
       "batchId": null,
@@ -37,5 +41,6 @@
       "repairedAt": null
     }
   ],
-  "batches": []
+  "batches": [],
+  "verificationRecords": []
 }
